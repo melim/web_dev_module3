@@ -16,7 +16,7 @@ body {
   padding-top: 25px;
 }
 
-.navbar-brand h1 { /* Restaurant name */
+.navbar-brand h1 {
   font-family:helvetica;
   color: black;
   font-weight: bold;
@@ -43,10 +43,6 @@ body {
 
 .navbar-header button.navbar-toggle {
   border: 1px solid #61122f;
-}
-
-.section_title {
-	text-align:center;
 }
 
 .section_style{
